@@ -1,6 +1,6 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  // site: 
+  site: "https://sensational-sprinkles-69cb96.netlify.app/",
 });
